@@ -1,0 +1,11 @@
+# Ignore Node.js dependencies
+node_modules/
+# Ignore macOS system files
+.DS_Store
+# Ignore log files
+*.log
+# Ignore build output
+dist/
+build/
+# Ignore environment files
+*.env
